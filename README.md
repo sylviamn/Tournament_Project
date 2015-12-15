@@ -2,11 +2,11 @@
 This project keeps track of players and matches for a swiss style tournament. A tournament database with a player and match table is created. Players are entered into the player table and are matched according to their standings. Results of matches are entered into the match table.
 
 # Files
-#### tournament.sql
+- tournament.sql
 This files contains sql statements that drops existing tables/views and creates new ones.
-#### tournament.py
+- tournament.py
 This file contains fuctions used in swiss style tournament.
-#### tournament_test.py
+- tournament_test.py
 This file contains test data to test run the tournament.
 
 #Instructions
