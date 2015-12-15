@@ -17,7 +17,7 @@ This file contains test data to test run the tournament.
 5. Change directory by running `cd /vagrant/tournament`
 6. Run `psql` in the cmd
 7. Create tournament database by typing and running `CREATE DATABASE tournament;`
-8. Connect to tournament database by running `/c tournament;`
+8. Connect to tournament database by running `\c tournament;`
 9. Create tables/views by typing and running `\i tournament.sql`
 10. Run `\q` to exit psql mode
 11. Run `python tournament_test.py` to run through tournament test.
